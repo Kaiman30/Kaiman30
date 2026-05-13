@@ -4,7 +4,7 @@
   <h2>Know About Me</h2>
 </div>
 
-<img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="220" align="left" style="margin-right: 15px;">
+<img src="https://i.postimg.cc/rK7kt7z7/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="220" align="left" style="margin-right: 15px;">
 
 
 <div align="justify">
@@ -60,7 +60,7 @@
     <td valign="center" width="55%" align="center">
       <div align="center">
         <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=Kaiman30&theme=dark&ring=FF0000&fire=FF0000" alt="GitHub Streak">
+          <img src="https://streak-stats.demolab.com?user=Kaiman30&theme=github-dark-blue&ring=FF0000&fire=FF0000" alt="GitHub Streak">
         </a>
       </div>
     </td>
